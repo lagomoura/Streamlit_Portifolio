@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Asul&family=Roboto:ital,wght@0,400;0,700;1,100&display=swap');
+
+footer {
+  visibility: hidden;
+}
+
+header {
+  visibility: hidden;
+}
+
+* {
+	font-family: 'Asul', serif;
+}
+
+a {
+	text-decoration: none;
+	color: white !important;
+}
+
+a:hover {
+	color: #fb4b4c !important;
+	text-decoration: none;
+	transition: 0.5s ease;
+}
+
+button:hover {
+	transition: 0.5s ease;
+}
+ul {
+	list-style: circle;
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 5%;
+}
